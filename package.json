@@ -1,0 +1,11 @@
+{
+  "name": "skate-examples",
+  "version": "1.0.0",
+  "description": "making some examples to learn skate web components",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacob Scearcy <JacobScearcy@gmail.com> (https://github.com/JScearcy)",
+  "license": "ISC"
+}
